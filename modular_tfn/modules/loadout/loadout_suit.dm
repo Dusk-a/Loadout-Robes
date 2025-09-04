@@ -86,6 +86,55 @@
 /datum/gear/suit/trenchcoat/burgundy
 	display_name = "trenchcoat, burgundy"
 	path = /obj/item/clothing/suit/vampire/trench/archive
+	
+//Robes
+/datum/gear/suit/hooded/robes
+	subtype_path = /datum/gear/suit/hooded/robes
+	
+/datum/gear/suit/hooded/robes/white
+	display_name = "white robe"
+	description = "Some angelic-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes
+	
+/datum/gear/suit/hooded/robes/black
+	display_name = "black robe"
+	description = "Some creepy-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes/black
+	
+/datum/gear/suit/hooded/robes/grey
+	display_name = "grey robe"
+	description = "Some somber-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes/grey
+	
+/datum/gear/suit/hooded/robes/darkred
+	display_name = "dark red robe"
+	description = "Some zealous-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes/darkred
+	
+/datum/gear/suit/hooded/robes/yellow
+	display_name = "yellow robe"
+	description = "Some happy-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes/yellow
+	
+/datum/gear/suit/hooded/robes/green
+	display_name = "green robe"
+	description = "Some earthy-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes/green
+	
+/datum/gear/suit/hooded/robes/red
+	display_name = "red robe"
+	description = "Some furious-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes/red
+	
+/datum/gear/suit/hooded/robes/purple
+	display_name = "purple robe"
+	description = "Some elegant-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes/purple
+	
+/datum/gear/suit/hooded/robes/blue
+	display_name = "blue robe"
+	description = "Some watery-looking robes."
+	path = /obj/item/clothing/suit/hooded/robes/blue
 
 // Misc
 
