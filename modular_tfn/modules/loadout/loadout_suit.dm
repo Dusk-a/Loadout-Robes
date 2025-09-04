@@ -92,47 +92,47 @@
 	subtype_path = /datum/gear/suit/hooded/robes
 	
 /datum/gear/suit/hooded/robes/white
-	display_name = "white robe"
+	display_name = "robe, white"
 	description = "Some angelic-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes
 	
 /datum/gear/suit/hooded/robes/black
-	display_name = "black robe"
+	display_name = "robe, black"
 	description = "Some creepy-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes/black
 	
 /datum/gear/suit/hooded/robes/grey
-	display_name = "grey robe"
+	display_name = "robe, grey"
 	description = "Some somber-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes/grey
 	
 /datum/gear/suit/hooded/robes/darkred
-	display_name = "dark red robe"
+	display_name = "robe, dark red"
 	description = "Some zealous-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes/darkred
 	
 /datum/gear/suit/hooded/robes/yellow
-	display_name = "yellow robe"
+	display_name = "robe, yellow"
 	description = "Some happy-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes/yellow
 	
 /datum/gear/suit/hooded/robes/green
-	display_name = "green robe"
+	display_name = "robe, green"
 	description = "Some earthy-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes/green
 	
 /datum/gear/suit/hooded/robes/red
-	display_name = "red robe"
+	display_name = "robe, red"
 	description = "Some furious-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes/red
 	
 /datum/gear/suit/hooded/robes/purple
-	display_name = "purple robe"
+	display_name = "robe, purple"
 	description = "Some elegant-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes/purple
 	
 /datum/gear/suit/hooded/robes/blue
-	display_name = "blue robe"
+	display_name = "robe, blue"
 	description = "Some watery-looking robes."
 	path = /obj/item/clothing/suit/hooded/robes/blue
 
